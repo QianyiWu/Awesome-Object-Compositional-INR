@@ -5,7 +5,8 @@ A collection of *object-compositional* modeling by implicit neural representatio
 
 If you have any suggestions (missing papers, new papers, key researchers or typos), please feel free to edit and pull a request. Just letting me know the title of papers can also be a big contribution to me. You can do this by opening issues.
 
-## Learning from a single scene
+## Papers 
+### Learning from a single scene
 - Learning Object-Compositional Neural Radiance Field for Editable Scene Rendering. **(ICCV 2021)** [Paper](https://arxiv.org/pdf/2109.01847.pdf) [Project Page](https://zju3dv.github.io/object_nerf/) [Code](https://github.com/zju3dv/object_nerf)
 - In-Place Scene Labelling and Understanding with Implicit Scene Representation. **(ICCV 2021)** [Paper]() [Project Page]() [Code]()
 - Object-compositional Neural Implicit Surfaces. **(ECCV 2022)** [Paper]() [Project Page]() [Code]()
@@ -21,21 +22,21 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 - AssetField: Assets Mining and Reconfiguration in Ground Feature Plane Representation. [Paper]() [Project Page]() [Code]()
 
 
-## Learning from dynamic scene
+### Learning from dynamic scene
 - Neural scene graphs for dynamic scenes. **(CVPR 2021)** [Paper]() [Project Page]() [Code]()
 - Panoptic Neural Fields: A Semantic Object-Aware Neural Scene Representation. **(CVPR 2021)** [Paper]() [Project Page]() [Code]()
 - D2nerf: self-supervised decoupling of dynamic and static objects from a monocular video. **(NeurIPS 2022)** [Paper]() [Project Page]() [Code]()
 - NeuralDiff: Segmenting 3D objects that move in egocentric videos. [Paper]() [Project Page]() [Code]()
 - NeRFPlayer: A Streamable Dynamic Scene Representation with Decomposed Neural Radiance Fields. **(TVCG 2023)** [Paper]() [Project Page](https://lsongx.github.io/projects/nerfplayer.html) [Code]()
 
-## Generation
+### Generation
 - Unconstrained scene generation with locally conditioned radiance fields. **(ICCV 2021)** [Paper]() [Project Page]() [Code]()
 - GIRAFFE: Representing Scenes as Compositional Generative Neural Feature Fields. **(CVPR 2021)** [Paper]() [Project Page]() [Code]()
 - Object-centric neural scene rendering. [Paper]() [Project Page]() [Code]()
 - Unsupervised Discovery of Object Radiance Fields. **(ICLR 2021)** [Paper]() [Project Page]() [Code]()
 - Unsupervised Discovery and Composition of Object Light Fields. [Paper]() [Project Page]() [Code]()
 - DisCoScene: Spatially Disentangled Generative Radiance Fields for Controllable 3D-aware Scene Synthesis. **(CVPR 2023)** [Paper]() [Project Page]() [Code]()
-- 
+
 
 
 #### :star: If you find this repo useful, please star it!!!
