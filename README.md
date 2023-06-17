@@ -1,4 +1,4 @@
-# Awesome Object Compositional Neural Implicit Representation
+# Awesome Object Compositional Neural Implicit Representation [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
 A collection of *object-compositional* modeling by implicit neural representation.
 
 #### :high_brightness: This project is still ongoing, pull requests are welcomed!!
@@ -6,7 +6,7 @@ A collection of *object-compositional* modeling by implicit neural representatio
 If you have any suggestions (missing papers, new papers, key researchers or typos), please feel free to edit and pull a request. Just letting me know the title of papers can also be a big contribution to me. You can do this by opening issues.
 
 ## Learning from a single scene
-- Learning Object-Compositional Neural Radiance Field for Editable Scene Rendering. **(ICCV 2021)** [Paper](https://arxiv.org/pdf/2109.01847.pdf)[Project Page](https://zju3dv.github.io/object_nerf/) [Code](https://github.com/zju3dv/object_nerf)
+- Learning Object-Compositional Neural Radiance Field for Editable Scene Rendering. **(ICCV 2021)** [Paper](https://arxiv.org/pdf/2109.01847.pdf) [Project Page](https://zju3dv.github.io/object_nerf/) [Code](https://github.com/zju3dv/object_nerf)
 - In-Place Scene Labelling and Understanding with Implicit Scene Representation. **(ICCV 2021)** [Paper]() [Project Page]() [Code]()
 - Object-compositional Neural Implicit Surfaces. **(ECCV 2022)** [Paper]() [Project Page]() [Code]()
 - Neural Feature Fusion Fields (N3F): 3D Distillation of Self-Supervised 2D Image Representations [Paper]() [Project Page]() [Code]()
