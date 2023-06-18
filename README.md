@@ -3,7 +3,8 @@ This repo contains a curative list of *object-compositional* modeling by implici
 
 #### :high_brightness: This project is still ongoing, pull requests are welcomed!!
 
-If you have any suggestions (missing papers, new papers, key researchers or typos), please feel free to edit and pull a request. Just letting me know the title of papers can also be a big contribution to me. You can do this by opening issues.
+If you have any suggestions (missing papers, new papers or typos), please feel free to edit and pull a request. Just letting me know the title of papers can also be a big contribution to me. You can do this by opening issues.
+#### :star: If you find this repo useful, welcome to star it.
 
 ## Papers 
 ### Learning from a single scene
@@ -36,7 +37,8 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 - Unsupervised Discovery of Object Radiance Fields. **(ICLR 2022)** [Paper](https://arxiv.org/abs/2107.07905) | [Project Page](https://kovenyu.com/uorf/) | [Code](https://github.com/KovenYu/uORF)
 - Unsupervised Discovery and Composition of Object Light Fields. **(TMLR 2023)** [Paper](https://arxiv.org/abs/2205.03923) | [Project Page](https://cameronosmith.github.io/colf/) | [Code](https://github.com/cameronosmith/COLF)
 - DisCoScene: Spatially Disentangled Generative Radiance Fields for Controllable 3D-aware Scene Synthesis. **(CVPR 2023)** [Paper](https://arxiv.org/abs/2212.11984) | [Project Page](https://snap-research.github.io/discoscene/) | [Code](https://github.com/snap-research/discoscene)
+- UrbanGIRAFFE: Representing Urban Scenes as Compositional Generative Neural Feature Fields [Paper](https://arxiv.org/abs/2303.14167) | [Project Page](https://lv3d.github.io/urbanGIRAFFE/)
 
 
 
-#### :star: If you find this repo useful, please star it!!!
+
