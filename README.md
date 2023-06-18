@@ -7,7 +7,7 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 
 ## Papers 
 ### Learning from a single scene
-- Learning Object-Compositional Neural Radiance Field for Editable Scene Rendering. **(ICCV 2021)** [Paper](https://arxiv.org/pdf/2109.01847.pdf) |[Project Page](https://zju3dv.github.io/object_nerf/) | [Code](https://github.com/zju3dv/object_nerf)
+- Learning Object-Compositional Neural Radiance Field for Editable Scene Rendering. **(ICCV 2021)** [Paper](https://arxiv.org/pdf/2109.01847.pdf) | [Project Page](https://zju3dv.github.io/object_nerf/) | [Code](https://github.com/zju3dv/object_nerf)
 - In-Place Scene Labelling and Understanding with Implicit Scene Representation. **(ICCV 2021)** [Paper](https://arxiv.org/abs/2103.15875) | [Project Page](https://shuaifengzhi.com/Semantic-NeRF/) | [Code](https://github.com/Harry-Zhi/semantic_nerf)
 - Object-compositional Neural Implicit Surfaces. **(ECCV 2022)** [Paper](https://arxiv.org/abs/2207.09686) | [Project Page](https://wuqianyi.top/objectsdf/) | [Code](https://github.com/QianyiWu/objsdf)
 - Neural Feature Fusion Fields (N3F): 3D Distillation of Self-Supervised 2D Image Representations **(3DV 2022)** [Paper](https://arxiv.org/abs/2209.03494) | [Project Page](https://www.robots.ox.ac.uk/~vadim/n3f/) | [Code](https://github.com/dichotomies/N3F)
