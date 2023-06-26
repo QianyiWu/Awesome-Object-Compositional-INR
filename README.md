@@ -38,6 +38,10 @@ If you have any suggestions (missing papers, new papers or typos), please feel f
 - Unsupervised Discovery and Composition of Object Light Fields. **(TMLR 2023)** [Paper](https://arxiv.org/abs/2205.03923) | [Project Page](https://cameronosmith.github.io/colf/) | [Code](https://github.com/cameronosmith/COLF)
 - DisCoScene: Spatially Disentangled Generative Radiance Fields for Controllable 3D-aware Scene Synthesis. **(CVPR 2023)** [Paper](https://arxiv.org/abs/2212.11984) | [Project Page](https://snap-research.github.io/discoscene/) | [Code](https://github.com/snap-research/discoscene)
 - UrbanGIRAFFE: Representing Urban Scenes as Compositional Generative Neural Feature Fields [Paper](https://arxiv.org/abs/2303.14167) | [Project Page](https://lv3d.github.io/urbanGIRAFFE/)
+- CompoNeRF: Text-guided Multi-object Compositional NeRF with Editable 3D Scene Layout [Paper](https://arxiv.org/abs/2303.13843)
+- Set-the-Scene: Global-Local Training for Generating Controllable NeRF Scenes [Paper](https://arxiv.org/abs/2303.13450)| [Project Page](https://danacohen95.github.io/Set-the-Scene/) | [Code] (https://github.com/DanaCohen95/Set-the-Scene)
+- Compositional 3D Scene Generation using Locally Conditioned Diffusion [Paper](https://arxiv.org/abs/2303.12218) | [Project Page](https://ryanpo.com/comp3d/)
+- CC3D: Layout-Conditioned Generation of Compositional 3D Scenes [Paper](https://arxiv.org/abs/2303.12074) | [Project Page](https://sherwinbahmani.github.io/cc3d/) | [Code](https://github.com/sherwinbahmani/cc3d)
 
 
 
