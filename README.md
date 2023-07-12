@@ -43,6 +43,8 @@ If you have any suggestions (missing papers, new papers or typos), please feel f
 - Compositional 3D Scene Generation using Locally Conditioned Diffusion [Paper](https://arxiv.org/abs/2303.12218) | [Project Page](https://ryanpo.com/comp3d/)
 - CC3D: Layout-Conditioned Generation of Compositional 3D Scenes [Paper](https://arxiv.org/abs/2303.12074) | [Project Page](https://sherwinbahmani.github.io/cc3d/) | [Code](https://github.com/sherwinbahmani/cc3d)
 
-
-
+## Related Repository.
+To capture or understand the surrounding world from an object-compositional perspective, there are some other awesome collections that could help you dive into this area.
+- [Awesome-object-SLAM](https://github.com/520xyxyzq/awesome-object-SLAM)
+- [Awesome-Implicit-NeRF-Robics](https://github.com/zubair-irshad/Awesome-Implicit-NeRF-Robotics)
 
