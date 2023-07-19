@@ -48,6 +48,7 @@ If you have any suggestions (missing papers, new papers or typos), please feel f
 - Set-the-Scene: Global-Local Training for Generating Controllable NeRF Scenes [Paper](https://arxiv.org/abs/2303.13450)| [Project Page](https://danacohen95.github.io/Set-the-Scene/) | [Code](https://github.com/DanaCohen95/Set-the-Scene)
 - Compositional 3D Scene Generation using Locally Conditioned Diffusion [Paper](https://arxiv.org/abs/2303.12218) | [Project Page](https://ryanpo.com/comp3d/)
 - CC3D: Layout-Conditioned Generation of Compositional 3D Scenes **(ICCV 2023)** [Paper](https://arxiv.org/abs/2303.12074) | [Project Page](https://sherwinbahmani.github.io/cc3d/) | [Code](https://github.com/sherwinbahmani/cc3d)
+- NCHO : Unsupervised Learning for Neural 3D Composition of Humans and Objects **(ICCV 2023)** [Paper](https://arxiv.org/abs/2305.14345) | [Project Page](https://taeksuu.github.io/ncho/)
 
 ## Related Repository.
 To capture or understand the surrounding world from an object-compositional perspective, there are some other awesome collections that could help you dive into this area.
