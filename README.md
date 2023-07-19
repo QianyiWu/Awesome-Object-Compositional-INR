@@ -1,5 +1,9 @@
-# Awesome Object Compositional Neural Implicit Representation [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
-This repo contains a curative list of *object-compositional* modeling by implicit neural representation.
+# Awesome Object Compositional Implicit Neural Representation [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
+This repo contains a curative list of *object-compositional* modeling by implicit neural representation. 
+
+## Motivation of this collection
+Our inspiration was sparked by the rapidly growing trend of implicit neural representations, such as NeRF, which have displayed remarkable capabilities in scene representation. Given that our environment comprises diverse objects, it raises an intriguing question: How can we comprehensively represent the basic constituents of a scene, the objects, while also promoting compositional capacity? Thus, our project involves gathering research papers that provide possible solutions to this problem, and we've labeled this collection as 'Object-Compositional Neural Implicit Representation'.
+
 
 #### :high_brightness: This project is still ongoing, pull requests are welcomed!!
 
@@ -15,12 +19,14 @@ If you have any suggestions (missing papers, new papers or typos), please feel f
 - Decomposing nerf for editing via feature field distillation. **(NeurIPS 2022)** [Paper](https://arxiv.org/abs/2205.15585) | [Project Page](https://pfnet-research.github.io/distilled-feature-fields/) | [Code](https://github.com/pfnet-research/distilled-feature-fields)
 - Feature-realistic neural fusion for real-time, open set scene understanding. **(ICRA 2023)** [Paper](https://arxiv.org/abs/2210.03043) | [Project Page](https://makezur.github.io/FeatureRealisticFusion/)
 - Dm-nerf: 3d scene geometry decomposition and manipulation from 2d images. **(ICLR 2023)** [Paper](https://arxiv.org/abs/2208.07227) | [Code](https://github.com/vLAR-group/DM-NeRF)
+- NeRF-SOS: Any-View Self-supervised Object Segmentation on Complex Scenes. **(ICLR 2023)** [Paper](https://arxiv.org/abs/2209.08776) | [Project Page](https://zhiwenfan.github.io/NeRF-SOS/) | [Code](https://github.com/VITA-Group/NeRF-SOS)
 - vMAP: Vectorised Object Mapping for Neural Field SLAM. **(CVPR 2023)** [Paper](https://arxiv.org/abs/2302.01838) | [Project Page](https://kxhit.github.io/vMAP) | [Code](https://github.com/kxhit/vMAP)
 - Nerflets: Local Radiance Fields for Efficient Structure-Aware 3D Scene Representation from 2D Supervision. **(CVPR 2023)** [Paper](https://arxiv.org/abs/2303.03361) | [Project Page](https://jetd1.github.io/nerflets-web/?utm_source=tldrai)
 - Panoptic lifting for 3d scene understanding with neural fields. **(CVPR 2023)** [Paper](https://arxiv.org/abs/2212.09802) | [Project Page](https://nihalsid.github.io/panoptic-lifting/) | [Code](https://github.com/nihalsid/panoptic-lifting)
 - Panoptic Compositional Feature Field for Editable Scene Rendering With Network-Inferred Labels via Metric Learning. **(CVPR 2023)** [Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Cheng_Panoptic_Compositional_Feature_Field_for_Editable_Scene_Rendering_With_Network-Inferred_CVPR_2023_paper.pdf)
-- Rico: Regularizing the unobservable for indoor compositional reconstruction. [Paper](https://arxiv.org/abs/2303.08605)
-- AssetField: Assets Mining and Reconfiguration in Ground Feature Plane Representation. [Paper](https://city-super.github.io/assetfield/img/main.pdf) | [Project Page](https://city-super.github.io/assetfield/)
+- Automated 3D Object Discovery and Reconstruction. **(CVPR 2023)** [Paper](https://arxiv.org/abs/2305.08810) | [Project Page](https://zju3dv.github.io/autorecon/) | [Code](https://github.com/zju3dv/AutoRecon)
+- Rico: Regularizing the unobservable for indoor compositional reconstruction. **(ICCV 2023)** [Paper](https://arxiv.org/abs/2303.08605)
+- AssetField: Assets Mining and Reconfiguration in Ground Feature Plane Representation. **(ICCV 2023)** [Paper](https://city-super.github.io/assetfield/img/main.pdf) | [Project Page](https://city-super.github.io/assetfield/)
 
 
 ### Learning from dynamic scene
@@ -41,7 +47,7 @@ If you have any suggestions (missing papers, new papers or typos), please feel f
 - CompoNeRF: Text-guided Multi-object Compositional NeRF with Editable 3D Scene Layout [Paper](https://arxiv.org/abs/2303.13843)
 - Set-the-Scene: Global-Local Training for Generating Controllable NeRF Scenes [Paper](https://arxiv.org/abs/2303.13450)| [Project Page](https://danacohen95.github.io/Set-the-Scene/) | [Code](https://github.com/DanaCohen95/Set-the-Scene)
 - Compositional 3D Scene Generation using Locally Conditioned Diffusion [Paper](https://arxiv.org/abs/2303.12218) | [Project Page](https://ryanpo.com/comp3d/)
-- CC3D: Layout-Conditioned Generation of Compositional 3D Scenes [Paper](https://arxiv.org/abs/2303.12074) | [Project Page](https://sherwinbahmani.github.io/cc3d/) | [Code](https://github.com/sherwinbahmani/cc3d)
+- CC3D: Layout-Conditioned Generation of Compositional 3D Scenes **(ICCV 2023)** [Paper](https://arxiv.org/abs/2303.12074) | [Project Page](https://sherwinbahmani.github.io/cc3d/) | [Code](https://github.com/sherwinbahmani/cc3d)
 
 ## Related Repository.
 To capture or understand the surrounding world from an object-compositional perspective, there are some other awesome collections that could help you dive into this area.
