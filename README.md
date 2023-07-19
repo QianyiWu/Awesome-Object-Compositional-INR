@@ -1,8 +1,8 @@
-# Awesome Object Compositional Implicit Neural Representation [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
+# Awesome Object Compositional Implicit Neural Representation (INR) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
 This repo contains a curative list of *object-compositional* modeling by implicit neural representation. 
 
 ## Motivation of this collection
-Our inspiration was sparked by the rapidly growing trend of implicit neural representations, such as NeRF, which have displayed remarkable capabilities in scene representation. Given that our environment comprises diverse objects, it raises an intriguing question: How can we comprehensively represent the basic constituents of a scene, the objects, while also promoting compositional capacity? Thus, our project involves gathering research papers that provide possible solutions to this problem, and we've labeled this collection as 'Object-Compositional Neural Implicit Representation'.
+Our inspiration was sparked by the rapidly growing trend of implicit neural representations (INR), such as NeRF, which have displayed remarkable capabilities in scene representation. Given that our environment comprises diverse objects, it raises an intriguing question: How can we comprehensively represent the basic constituents of a scene, the objects, while also promoting compositional capacity? Thus, our project involves gathering research papers that provide possible solutions to this problem, and we've labeled this collection as 'Object-Compositional Neural Implicit Representation'.
 
 
 #### :high_brightness: This project is still ongoing, pull requests are welcomed!!
