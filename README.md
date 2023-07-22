@@ -41,7 +41,7 @@ If you have any suggestions (missing papers, new papers or typos), please feel f
 - Panoptic Neural Fields: A Semantic Object-Aware Neural Scene Representation. **(CVPR 2022)** [Paper](https://arxiv.org/abs/2205.04334) | [Project Page](https://abhijitkundu.info/projects/pnf/)
 - D2nerf: self-supervised decoupling of dynamic and static objects from a monocular video. **(NeurIPS 2022)** [Paper](https://arxiv.org/abs/2205.15838) | [Project Page](https://d2nerf.github.io/) | [Code](https://github.com/ChikaYan/d2nerf)
 - SAVi++: Towards End-to-End Object-Centric Learning from Real-World Videos. **(NeurIPS 2022)** [Paper](https://arxiv.org/abs/2206.07764) | [Project Page](https://slot-attention-video.github.io/savi++/) | [Code](https://github.com/google-research/slot-attention-video/)
-- Conditional Object-Centric Learning from Video. **(NeurIPS 2022)** [Paper](https://arxiv.org/abs/2111.12594) | [Project Page](https://slot-attention-video.github.io/) | [Code](https://github.com/google-research/slot-attention-video/)
+- Conditional Object-Centric Learning from Video. **(ICLR 2022)** [Paper](https://arxiv.org/abs/2111.12594) | [Project Page](https://slot-attention-video.github.io/) | [Code](https://github.com/google-research/slot-attention-video/)
 - NeRFPlayer: A Streamable Dynamic Scene Representation with Decomposed Neural Radiance Fields. **(TVCG 2023)**[Paper](https://arxiv.org/abs/2210.15947) | [Project Page](https://lsongx.github.io/projects/nerfplayer.html) | [Code](https://github.com/nerfstudio-project/nerfstudio)
 
 ### Generation
