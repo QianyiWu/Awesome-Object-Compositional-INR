@@ -31,7 +31,7 @@ If you have any suggestions (missing papers, new papers or typos), please feel f
 - Panoptic lifting for 3d scene understanding with neural fields. **(CVPR 2023)** [Paper](https://arxiv.org/abs/2212.09802) | [Project Page](https://nihalsid.github.io/panoptic-lifting/) | [Code](https://github.com/nihalsid/panoptic-lifting)
 - Panoptic Compositional Feature Field for Editable Scene Rendering With Network-Inferred Labels via Metric Learning. **(CVPR 2023)** [Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Cheng_Panoptic_Compositional_Feature_Field_for_Editable_Scene_Rendering_With_Network-Inferred_CVPR_2023_paper.pdf)
 - Automated 3D Object Discovery and Reconstruction. **(CVPR 2023)** [Paper](https://arxiv.org/abs/2305.08810) | [Project Page](https://zju3dv.github.io/autorecon/) | [Code](https://github.com/zju3dv/AutoRecon)
-- Rico: Regularizing the unobservable for indoor compositional reconstruction. **(ICCV 2023)** [Paper](https://arxiv.org/abs/2303.08605)
+- Rico: Regularizing the unobservable for indoor compositional reconstruction. **(ICCV 2023)** [Paper](https://arxiv.org/abs/2303.08605) | [Code](https://github.com/kyleleey/RICO)
 - AssetField: Assets Mining and Reconfiguration in Ground Feature Plane Representation. **(ICCV 2023)** [Paper](https://city-super.github.io/assetfield/img/main.pdf) | [Project Page](https://city-super.github.io/assetfield/)
 - Learning Unified Decompositional and Compositional NeRF for Editable Novel View Synthesis. **(ICCV 2023)** [Paper](https://arxiv.org/abs/2308.02840) | [Project Page](https://w-ted.github.io/publications/udc-nerf/)
 
