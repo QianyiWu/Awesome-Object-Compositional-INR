@@ -33,6 +33,7 @@ If you have any suggestions (missing papers, new papers or typos), please feel f
 - Automated 3D Object Discovery and Reconstruction. **(CVPR 2023)** [Paper](https://arxiv.org/abs/2305.08810) | [Project Page](https://zju3dv.github.io/autorecon/) | [Code](https://github.com/zju3dv/AutoRecon)
 - Rico: Regularizing the unobservable for indoor compositional reconstruction. **(ICCV 2023)** [Paper](https://arxiv.org/abs/2303.08605)
 - AssetField: Assets Mining and Reconfiguration in Ground Feature Plane Representation. **(ICCV 2023)** [Paper](https://city-super.github.io/assetfield/img/main.pdf) | [Project Page](https://city-super.github.io/assetfield/)
+- Learning Unified Decompositional and Compositional NeRF for Editable Novel View Synthesis. **(ICCV 2023)** [Paper](https://arxiv.org/abs/2308.02840) | [Project Page](https://w-ted.github.io/publications/udc-nerf/)
 
 ### Learning from dynamic scene
 
