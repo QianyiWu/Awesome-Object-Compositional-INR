@@ -46,7 +46,7 @@ If you have any suggestions (missing papers, new papers or typos), please feel f
 
 ### Learning from dataset 
 - Unsupervised Discovery of Object Radiance Fields. **(ICLR 2022)** [Paper](https://arxiv.org/abs/2107.07905.pdf) | [Project Page](https://kovenyu.com/uorf/) | [Code](https://github.com/KovenYu/uORF)
-- ShAPO: Implicit Representations for Multi Object Shape Appearance and Pose Optimization **(ECCV 2022)** [Paper](https://arxiv.org/abs/2207.13691) | [Project Page](https://zubair-irshad.github.io/projects/ShAPO.html) | [Code] (https://github.com/zubair-irshad/shapo)
+- ShAPO: Implicit Representations for Multi Object Shape Appearance and Pose Optimization **(ECCV 2022)** [Paper](https://arxiv.org/abs/2207.13691) | [Project Page](https://zubair-irshad.github.io/projects/ShAPO.html) | [Code](https://github.com/zubair-irshad/shapo)
 - Object Scene Representation Transformer. **(NeurIPS 2022)** [Paper](https://arxiv.org/abs/2206.06922) | [Project Page](https://osrt-paper.github.io/) | [Code](https://github.com/stelzner/osrt)
 - Object-centric neural scene rendering. [Paper](https://arxiv.org/abs/2012.08503) | [Project Page](https://shellguo.com/osf/)
 - Unsupervised Discovery and Composition of Object Light Fields. **(TMLR 2023)** [Paper](https://arxiv.org/abs/2205.03923) | [Project Page](https://cameronosmith.github.io/colf/) | [Code](https://github.com/cameronosmith/COLF)
